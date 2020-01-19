@@ -7,3 +7,6 @@ https://github.com/YiranJing/Software-Engineering-for-Data-Science/wiki
 1. Hard skills for Data Science
 2. What I learnt during data science intern
 3. Soft Skills for data science
+
+### Find me more on [my personal web](https://garlic-rust-tcsp.squarespace.com/)
+https://garlic-rust-tcsp.squarespace.com/
